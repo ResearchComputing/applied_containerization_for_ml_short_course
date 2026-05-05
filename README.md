@@ -7,3 +7,9 @@ This Short Course is designed to introduce researchers to containerized machine 
 This session is intended for users with basic understanding of programming and some familiarity with Linux command-line environment. Participants should have a Research Computing Account prior to the start of the training if they wish to try hands-on examples.
 
 What is a Short Course? A training that provides an in-depth understanding of a concept, system, or tool. You can expect to leave a "Short Course" with a solid grasp of the topic.
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
